@@ -1,0 +1,8 @@
+name: Moneysystem
+version: ${project.version}
+main: de.leonhard.moneysystem.Moneysystem
+description: Ein wundervolles Addon für den Diamant-ix Server
+
+commands:
+  money:
+
